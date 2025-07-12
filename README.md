@@ -1,16 +1,17 @@
-## Hi there 👋
+# ¡Hola! 👋 Soy Juan Decia.  
+### **Full-Stack Developer Jr** | React | Node.js  
 
-<!--
-**JuanDecia/JuanDecia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 **Tecnologías que uso:**  
+- Frontend: React, JavaScript, TypeScript.  
+- Backend: Node.js, Express, APIs REST.  
+- Databases: MongoDB, SQL.  
 
-Here are some ideas to get you started:
+🔨 **Proyectos Destacados:**  
+- Notas Programación: Frontend.
+- PokeApi: Frontend y Backend.  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 **Conéctame:**  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?logo=linkedin)](https://www.linkedin.com/in/juan-decia/)  
+
+Actualmente estoy trabajando en un sistema de control de ingresos y gastos diarios.
+Estoy aprendiendo a profundizar Node.
