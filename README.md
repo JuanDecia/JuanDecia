@@ -61,7 +61,7 @@
     <img src="https://img.shields.io/badge/Notas_Programacion-FF6B6B?style=for-the-badge&logo=react&logoColor=white" height="30" alt="notas-programacion" />
   </a>
   <a href="https://github.com/JuanDecia/rubicom">
-    <img src="https://img.shields.io/badge/Prácticas-Rubicom-4ECDC4?style=for-the-badge&logo=node.js&logoColor=white" height="30" alt="api-rest" />
+    <img src="https://img.shields.io/badge/Prácticas_Rubicom-4ECDC4?style=for-the-badge&logo=node.js&logoColor=white" height="30" alt="api-rest" />
   </a>
 </div>
 
