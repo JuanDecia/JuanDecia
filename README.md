@@ -57,8 +57,8 @@
 ###
 
 <div align="left">
-  <a href="https://github.com/JuanDecia/sistema-gestion-educativa">
-    <img src="https://img.shields.io/badge/Sistema_de_Gestión_Educativa-FF6B6B?style=for-the-badge&logo=react&logoColor=white" height="30" alt="sistema-educativo" />
+  <a href="https://github.com/JuanDecia/Notas-Programacion">
+    <img src="https://img.shields.io/badge/Notas_Programacion-FF6B6B?style=for-the-badge&logo=react&logoColor=white" height="30" alt="notas-programacion" />
   </a>
   <a href="https://github.com/JuanDecia/api-rest-node">
     <img src="https://img.shields.io/badge/API_REST-4ECDC4?style=for-the-badge&logo=node.js&logoColor=white" height="30" alt="api-rest" />
