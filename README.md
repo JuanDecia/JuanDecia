@@ -11,7 +11,7 @@
 ###
 
 <p align="left">
-✨ Creando soluciones (y algún que otro bug) desde 2023<br>
+✨ Creando soluciones (y algún que otro bug) desde 2021<br>
 📚 Actualmente aprendiendo: <strong>TypeScript, AWS y Testing</strong><br>
 🎯 Meta: Convertirme en <strong>Full-Stack Mid-Level en 2025</strong><br>
 🎲 Dato curioso: <em>"Antes de programar, me dedicaba al fútbol"</em>
